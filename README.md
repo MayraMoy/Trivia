@@ -1,4 +1,4 @@
-# 🎮 Trivia de Miraculous
+## 🎮 Trivia de Miraculous
 
 Una divertida trivia basada en el universo de *Miraculous: Las Aventuras de Ladybug*, donde los jugadores pueden poner a prueba sus conocimientos sobre la serie a través de diferentes categorías.
 
